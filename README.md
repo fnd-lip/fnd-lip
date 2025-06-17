@@ -5,24 +5,6 @@
 Olá! Sou Felipe Barbosa, estudante de Engenharia de Software.Tenho interesse em desenvolvimento de software, resolução de problemas, mobile e web além de me aprofundar nas áreas de dados.
 Atualmente me dedico ao desenvolvimento de projetos pessoais.
 
-<p align="left">
-    <a href="http://lattes.cnpq.br/0413879128814000">
-        <img 
-            alt="Lattes" 
-            title="Acesse meu currículo Lattes" 
-            src="https://img.shields.io/badge/Lattes-0413879128814000-blue?style=for-the-badge&logo=lattes&logoColor=white"
-        />
-    </a>
-    <a href="https://www.linkedin.com/in/felipebarbosadelima/">
-        <img 
-            alt="LinkedIn" 
-            title="Me adicione no LinkedIn" 
-            src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
-        />
-    </a>
-</p>
-
-
 ---
 
 ### 🚀 Tecnologias e Ferramentas
