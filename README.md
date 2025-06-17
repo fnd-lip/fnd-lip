@@ -106,5 +106,4 @@ Atualmente me dedico ao desenvolvimento de projetos pessoais.
 ---
 
 ### 🔗 Onde me encontrar:
-- 💼 [Currículo Lattes](http://lattes.cnpq.br/0413879128814000)
-- 📧 Email: felipebarbosadl@gmail.com
+- 📧 Email: felipefebl@gmail.com
