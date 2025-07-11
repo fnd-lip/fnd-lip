@@ -85,7 +85,3 @@ Atualmente me dedico ao desenvolvimento de projetos pessoais.
 <br/>
 <br/>
 
----
-
-### 🔗 Onde me encontrar:
-- 📧 Email: felipefebl@gmail.com
