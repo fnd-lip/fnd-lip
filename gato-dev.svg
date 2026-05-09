@@ -1,0 +1,79 @@
+<svg width="900" height="260" viewBox="0 0 900 260" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="900" height="260" rx="24" fill="#F6F8FA"/>
+
+  <rect x="60" y="45" width="780" height="170" rx="18" fill="#FFFFFF" stroke="#D0D7DE"/>
+
+  <circle cx="90" cy="72" r="7" fill="#FF605C"/>
+  <circle cx="112" cy="72" r="7" fill="#FFBD44"/>
+  <circle cx="134" cy="72" r="7" fill="#00CA4E"/>
+
+  <text x="70" y="115" font-family="Fira Code, monospace" font-size="20" fill="#0969DA">$ npm run dev</text>
+  <text x="70" y="148" font-family="Fira Code, monospace" font-size="18" fill="#24292F">Felipe Barbosa iniciando projetos...</text>
+
+  <rect x="70" y="192" width="13" height="24" rx="3" fill="#0969DA">
+    <animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <!-- Mobile -->
+  <g transform="translate(135 165)">
+    <rect x="0" y="0" width="34" height="54" rx="7" stroke="#24292F" stroke-width="3" fill="none"/>
+    <rect x="11" y="4" width="12" height="4" rx="2" fill="#0969DA"/>
+    <rect x="11" y="45" width="12" height="4" rx="2" fill="#0969DA"/>
+  </g>
+
+  <line x1="210" y1="165" x2="210" y2="220" stroke="#D8DEE4" stroke-width="2"/>
+
+  <!-- Web -->
+  <g transform="translate(250 168)">
+    <rect x="0" y="0" width="58" height="45" rx="6" stroke="#24292F" stroke-width="3" fill="none"/>
+    <line x1="0" y1="12" x2="58" y2="12" stroke="#24292F" stroke-width="3"/>
+    <circle cx="9" cy="6" r="2" fill="#0969DA"/>
+    <circle cx="18" cy="6" r="2" fill="#0969DA"/>
+    <circle cx="27" cy="6" r="2" fill="#0969DA"/>
+    <circle cx="29" cy="30" r="13" stroke="#0969DA" stroke-width="3"/>
+    <path d="M16 30H42" stroke="#0969DA" stroke-width="3"/>
+    <path d="M29 17C23 23 23 37 29 43" stroke="#0969DA" stroke-width="3"/>
+    <path d="M29 17C35 23 35 37 29 43" stroke="#0969DA" stroke-width="3"/>
+  </g>
+
+  <line x1="355" y1="165" x2="355" y2="220" stroke="#D8DEE4" stroke-width="2"/>
+
+  <!-- Dados -->
+  <g transform="translate(395 165)">
+    <ellipse cx="28" cy="9" rx="24" ry="8" stroke="#24292F" stroke-width="3"/>
+    <path d="M4 9V45C4 50 15 56 28 56C41 56 52 50 52 45V9" stroke="#24292F" stroke-width="3"/>
+    <path d="M4 27C4 32 15 38 28 38C41 38 52 32 52 27" stroke="#24292F" stroke-width="3"/>
+    <rect x="58" y="34" width="8" height="20" rx="2" stroke="#0969DA" stroke-width="3"/>
+    <rect x="72" y="24" width="8" height="30" rx="2" stroke="#0969DA" stroke-width="3"/>
+    <rect x="86" y="12" width="8" height="42" rx="2" stroke="#0969DA" stroke-width="3"/>
+  </g>
+
+  <line x1="530" y1="165" x2="530" y2="220" stroke="#D8DEE4" stroke-width="2"/>
+
+  <!-- Engenharia de Software -->
+  <g transform="translate(575 166)">
+    <path d="M5 45H70L64 54H11L5 45Z" stroke="#24292F" stroke-width="3" fill="none"/>
+    <rect x="12" y="5" width="51" height="40" rx="4" stroke="#24292F" stroke-width="3" fill="none"/>
+    <text x="23" y="32" font-family="Fira Code, monospace" font-size="18" font-weight="bold" fill="#0969DA">&lt;/&gt;</text>
+    <circle cx="74" cy="8" r="9" stroke="#0969DA" stroke-width="3"/>
+    <path d="M74 -6V-1M74 17V22M60 8H65M83 8H88M64 -2L67 1M81 15L84 18M64 18L67 15M81 1L84 -2" stroke="#0969DA" stroke-width="3" stroke-linecap="round"/>
+  </g>
+
+  <!-- Gato -->
+  <g transform="translate(650 95)">
+    <path d="M60 70 C25 70 10 45 15 20 L35 38 L52 12 L70 38 L95 20 C100 45 92 70 60 70Z" fill="#24292F"/>
+    <circle cx="45" cy="47" r="5" fill="#F6F8FA">
+      <animate attributeName="ry" values="5;1;5" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <circle cx="75" cy="47" r="5" fill="#F6F8FA">
+      <animate attributeName="ry" values="5;1;5" dur="3s" repeatCount="indefinite"/>
+    </circle>
+    <path d="M58 55 L62 55 L60 59 Z" fill="#F6F8FA"/>
+    <path d="M20 67 C-10 88 10 125 48 112" stroke="#24292F" stroke-width="12" stroke-linecap="round">
+      <animate attributeName="d" values="M20 67 C-10 88 10 125 48 112;M20 67 C-5 95 18 118 48 112;M20 67 C-10 88 10 125 48 112" dur="2.5s" repeatCount="indefinite"/>
+    </path>
+    <rect x="25" y="70" width="70" height="58" rx="18" fill="#24292F"/>
+    <rect x="18" y="116" width="84" height="24" rx="8" fill="#0969DA"/>
+    <text x="33" y="134" font-family="Fira Code, monospace" font-size="13" fill="#FFFFFF">&lt;/&gt;</text>
+  </g>
+</svg>
