@@ -87,8 +87,6 @@ Atualmente me dedico ao desenvolvimento de projetos pessoais.
 
 ---
 
----
-
 ### 🐈‍⬛ Modo Dev
 
 <div align="center">
