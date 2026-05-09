@@ -103,6 +103,6 @@ Atualmente me dedico ao desenvolvimento de projetos pessoais.
 
 <div align="center">
 
-### 🚧 Sempre aprendendo, criando e evoluindo como desenvolvedor.
+### 🚧 Sempre aprendendo e evoluindo como desenvolvedor.
 
 </div>
