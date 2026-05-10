@@ -90,9 +90,14 @@ Atualmente me dedico ao desenvolvimento de projetos pessoais.
 ### 🐈‍⬛ Modo Dev
 
 <div align="center">
-  <img src="./assets/gato-dev.svg" alt="Gato dev animado" />
-</div>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/gato-dev-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/gato-dev.svg">
+  <img src="./assets/gato-dev.svg" alt="Gato dev animado" />
+</picture>
+
+</div>
 ---
 
 <div align="center">
