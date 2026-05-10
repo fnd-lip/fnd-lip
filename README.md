@@ -92,6 +92,7 @@ Atualmente me dedico ao desenvolvimento de projetos pessoais.
 <div align="center">
   <img src="./assets/gato-dev.svg" alt="Gato dev animado" />
 </div>
+
 ---
 
 <div align="center">
