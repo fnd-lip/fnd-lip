@@ -98,6 +98,7 @@ Atualmente me dedico ao desenvolvimento de projetos pessoais.
 </picture>
 
 </div>
+
 ---
 
 <div align="center">
