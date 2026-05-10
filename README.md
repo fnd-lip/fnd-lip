@@ -90,13 +90,7 @@ Atualmente me dedico ao desenvolvimento de projetos pessoais.
 ### 🐈‍⬛ Modo Dev
 
 <div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fnd-lip/fnd-lip/main/assets/gato-dev-dark.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fnd-lip/fnd-lip/main/assets/gato-dev.svg?v=2">
-  <img src="https://raw.githubusercontent.com/fnd-lip/fnd-lip/main/assets/gato-dev.svg?v=2" alt="Gato dev animado" />
-</picture>
-
+  <img src="./assets/gato-dev.svg" alt="Gato dev animado" />
 </div>
 
 ---
