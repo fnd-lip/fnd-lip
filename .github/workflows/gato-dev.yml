@@ -18,14 +18,13 @@ jobs:
       contents: write
 
     steps:
-      - name: Criar animação do gato dev
+      - name: Criar SVGs do gato dev
         run: |
           mkdir -p dist
 
           cat > dist/gato-dev.svg <<'SVG'
           <svg width="900" height="260" viewBox="0 0 900 260" fill="none" xmlns="http://www.w3.org/2000/svg">
             <rect width="900" height="260" rx="24" fill="#F6F8FA"/>
-
             <rect x="60" y="45" width="780" height="170" rx="18" fill="#FFFFFF" stroke="#D0D7DE"/>
 
             <circle cx="90" cy="72" r="7" fill="#FF605C"/>
@@ -107,7 +106,6 @@ jobs:
           cat > dist/gato-dev-dark.svg <<'SVG'
           <svg width="900" height="260" viewBox="0 0 900 260" fill="none" xmlns="http://www.w3.org/2000/svg">
             <rect width="900" height="260" rx="24" fill="#0D1117"/>
-
             <rect x="60" y="45" width="780" height="170" rx="18" fill="#161B22" stroke="#30363D"/>
 
             <circle cx="90" cy="72" r="7" fill="#FF605C"/>
@@ -186,10 +184,9 @@ jobs:
           </svg>
           SVG
 
-      - name: Publicar SVG na branch output
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+      - name: Publicar arquivos na branch output
+        uses: JamesIves/github-pages-deploy-action@v4
         with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          branch: output
+          folder: dist
+          clean: true
