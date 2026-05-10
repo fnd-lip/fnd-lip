@@ -18,6 +18,9 @@ jobs:
       contents: write
 
     steps:
+      - name: Baixar repositório
+        uses: actions/checkout@v4
+
       - name: Criar SVGs do gato dev
         run: |
           mkdir -p dist
