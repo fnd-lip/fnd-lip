@@ -3,7 +3,7 @@
 <img align="right" src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="210" alt="Gato ilustrado programando em um notebook" />
 
 <p>
-  <em>🎓 Graduado em Engenharia de Software pela <strong>UFAM</strong></em><br />
+  <em>🎓 Graduação em Engenharia de Software</em><br />
   <em>🛠️ Estudos que viram projetos pessoais.</em>
 </p>
 
@@ -24,8 +24,7 @@ e explorar as conexões entre **web, mobile e dados**.
 const felipe = {
   formação: {
     curso: "Engenharia de Software",
-    universidade: "UFAM",
-    status: "🎓 Graduação concluída",
+    universidade: "UFAM"
   },
   interesses: ["🌐 Web", "📱 Mobile", "📊 Dados"],
   linguagens: ["JavaScript", "Python"],
@@ -61,4 +60,3 @@ const felipe = {
   <em>Este é meu espaço para experimentar, aprender e compartilhar o que estou construindo.</em>
 </p>
 
-<!-- Ilustrações animadas: Giphy. Ícones: Devicon. Etiquetas: Shields.io. -->
